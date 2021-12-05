@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">reto1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AutoPartes</string>
+    <string name="nav_header_subtitle">fredy.gomez2.mt@correo.usa.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Productos</string>
+    <string name="menu_gallery">Servicios</string>
+    <string name="menu_slideshow">Sucursales</string>
+
+    <string name="btnagregar">AGREGAR</string>
+
+    <string name="namep1">Bandeja Separarador Hilux</string>
+    <string name="namep2">Carburador Standar ZCL-154</string>
+    <string name="namep3">Empaquetadura L525 MAZDA</string>
+    <string name="namep4">Recambio sistema electrico FORD</string>
+    <string name="namep5">STOP TOYOTA MADEIN JAPAN</string>
+
+    <string name="descp1">$250.000</string>
+    <string name="descp2">$1.150.000</string>
+    <string name="descp3">$700.000</string>
+    <string name="descp4">$178.000</string>
+    <string name="descp5">$200.000</string>
+
+    <string name="names1">Alineacion y Balanceo</string>
+    <string name="names2">Pintura Especializada</string>
+    <string name="names3">Capacitacion Mantenimiento Automotriz</string>
+    <string name="names4">Despinchada en taller</string>
+    <string name="names5">Despinchada Domicilio Día</string>
+
+    <string name="descs1">$50.000</string>
+    <string name="descs2">$1.000.000</string>
+    <string name="descs3">$600.000</string>
+    <string name="descs4">$20.000</string>
+    <string name="descs5">$30.000</string>
+
+</resources>
